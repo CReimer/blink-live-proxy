@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Blink Live Proxy",
+        "description": "Create snapshot and experimental live-stream proxy cameras from the configured Blink system."
+      }
+    },
+    "abort": {
+      "already_configured": "Blink Live Proxy is already configured."
+    }
+  }
+}

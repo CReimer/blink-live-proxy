@@ -1,0 +1,4 @@
+homeassistant==2026.8.0
+av==17.0.1
+numpy==2.3.2
+PyTurboJPEG==1.8.3
