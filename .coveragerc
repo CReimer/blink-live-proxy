@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = custom_components/blink_live_proxy
+
+[report]
+show_missing = True
+precision = 2
