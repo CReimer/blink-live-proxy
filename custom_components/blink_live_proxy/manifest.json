@@ -1,13 +1,17 @@
 {
   "domain": "blink_live_proxy",
   "name": "Blink Live Proxy",
-  "codeowners": ["@CReimer"],
+  "codeowners": [
+    "@CReimer"
+  ],
   "config_flow": true,
-  "dependencies": ["blink"],
+  "dependencies": [
+    "blink"
+  ],
   "documentation": "https://github.com/CReimer/blink-live-proxy",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/CReimer/blink-live-proxy/issues",
   "requirements": [],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
